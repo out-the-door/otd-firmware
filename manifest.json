@@ -1,0 +1,10 @@
+{
+  "version": "0.9.3",
+  "url": "https://raw.githubusercontent.com/out-the-door/otd-firmware/main/bin/otd-0.9.3.bin",
+  "size": 1475824,
+  "sha256": "4b4b8e4bbf4e4997343fad6ec0f96f675591124af731575be905211353faaf30",
+  "sig": "MEUCIANox+r5FxeZE0N74i/MKa9YaSC8+MI3Xlz1b+/HCtozAiEA9cQOhY6NVi28I0YC/30JgYPItooKRpaYu9AueBJLXbc=",
+  "notes": "Weekly self-updates, real temperature with a Celsius option, bus fixes",
+  "min_fw": "0.9.1",
+  "published": "2026-09-20T20:10:16Z"
+}
