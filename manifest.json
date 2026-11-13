@@ -1,10 +1,10 @@
 {
-  "version": "0.9.10",
-  "url": "https://raw.githubusercontent.com/out-the-door/otd-firmware/main/bin/otd-0.9.10.bin",
-  "size": 1623424,
-  "sha256": "4101b1b229d5b840bc21ae0c43a1126a3c28784c384f511cd2f27688f7f996e3",
-  "sig": "MEUCIHVwPTDY4Rm1Sv0DZngOGiEvThvrkXaMjDHaFNREGZV2AiEAx+geNO6gu7zYnTD1d5yn5KB+g7y0zigrOkaf3sbo/1Q=",
-  "notes": "Wheel turns the page (dashboard, Settings, Sleep); serif logo; full setup over USB; fresh boards start empty; ",
+  "version": "0.9.11",
+  "url": "https://raw.githubusercontent.com/out-the-door/otd-firmware/main/bin/otd-0.9.11.bin",
+  "size": 1623952,
+  "sha256": "526fce0d71fdb1695fb06ebfa2ee9c72b02be1785d2cda2a36d8f415d0c303b0",
+  "sig": "MEQCIHPSVY2uiMAxJhmWhMwylFWi3FWRuNnzfk7Pcahc60SyAiAq+9t15HqQ+KGjzuXtCa9+g+aTK83mn2S/+ZVLl3Ll/Q==",
+  "notes": "Snow now shows a real snowflake instead of an empty box",
   "min_fw": "0.9.1",
-  "published": "2026-10-06T10:44:18Z"
+  "published": "2026-11-13T16:32:53Z"
 }
